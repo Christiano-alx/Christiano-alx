@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Christiano-alx&show_icons=true&include_all_commits=true&hide_border=true" alt="Christiano's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christiano-alx&langs_count=8&layout=compact&hide_border=true" alt="Christiano GitHub stats" /> |
+| ------------- | ------------- |
